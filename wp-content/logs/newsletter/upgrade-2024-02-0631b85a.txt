@@ -1,0 +1,28 @@
+19-02-2024 11:43:40 - INFO  - 7.9.3 - 5.1 MB/128 MB - amscadmin > Start upgrade from 0.0.0
+19-02-2024 11:43:40 - INFO  - 7.9.3 - 5.2 MB/128 MB - amscadmin > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+19-02-2024 11:43:40 - INFO  - 7.9.3 - 5.2 MB/128 MB - amscadmin > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+19-02-2024 11:43:40 - INFO  - 7.9.3 - 5.2 MB/128 MB - amscadmin > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+19-02-2024 11:43:40 - INFO  - 7.9.3 - 5.2 MB/128 MB - amscadmin > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+19-02-2024 11:43:40 - INFO  - 7.9.3 - 5.2 MB/128 MB - amscadmin > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+19-02-2024 11:43:40 - INFO  - 7.9.3 - 5.2 MB/128 MB - amscadmin > Backing up options of 0.0.0
+19-02-2024 11:43:40 - INFO  - 7.9.3 - 5.2 MB/128 MB - amscadmin > End
